@@ -23,7 +23,7 @@
 而下一步的后训练阶段，就是对这个“博学”学生进行专门化的培养，使其成为一名律师或其它专业性的人才。
 
 
-
+课程链接：https://github.com/datawhalechina/Post-training-of-LLMs/tree/main/docs/chapter1
   
   
 
