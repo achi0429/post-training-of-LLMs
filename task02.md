@@ -8,4 +8,8 @@
  **拒绝采样**：对同一输入下不同响应，使用奖励函数去判别最好的回应作为数据集。  
  **过滤**：从大型 SFT 数据集中挑选出回应质量高且提示多样性好的样本。  
 
-SFT：质量大于数量
+SFT：质量大于数量  
+课程链接：https://github.com/datawhalechina/Post-training-of-LLMs/tree/main/docs/chapter1
+
+
+
